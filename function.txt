@@ -3,3 +3,7 @@ yalah
 je continue le projet
 
 et on entre dans le function 2
+
+j'essaye de résoudre mon bug ou d'améliorer le code
+
+j'ai trouve une nice solution ^^
